@@ -11,8 +11,6 @@
  I build this gatsby theme plugin for themejam.gatsbyjs.org and now I'm using as my personal blog. I'm using github issues system as a CMS. where I write my blog post and gatsby get the data from github source and build static pages and it's so fast.
 </p>
 
-<a href="https://apiwithgithub.com" target="_blank"><img src="https://raw.githubusercontent.com/mddanishyusuf/gatsby-theme-blog-with-github/master/gatsby-theme-blog-with-github-preview.png"/></a>
-
 
 ## Steps:
 
